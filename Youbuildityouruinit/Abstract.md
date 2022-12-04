@@ -1,10 +1,8 @@
 Les retours d'expériences sur le déroulé des projets dits agiles sont souvent sans saveur.  
 Il y est décrit un cadre idyllique rappelant la petite maison dans la prairie.  
-Ce cadre est malheureusement imposé par les cellules communication des groupes faisant ces REX.  
 Or quand vous avez travaillé pour ces projets ou à côté, vous vous apercevez bien trop souvent que le prairie est en proie aux flammes.  
 
-Mais pourquoi ment-on? Par peur de ne pas attirer les talents? De faire peur aux investisseurs? Les deux? d'autres raisons?  
-Ce talk n'a pas pour but de répondre à ces questions.  
+Mais pourquoi ment-on? Par peur de ne pas attirer les talents? De faire peur aux investisseurs? Les deux? d'autres raisons?
 Il sera un REX de projets qui ont "merdé" à un moment et qui ont réussi en totalité ou en partie à se sortir ou non de la panade.
 
 Au travers des protagonistes suivants Lucien CaCailleDansLesWater, Mob Solo, Matic son fidèle compagnon parfois chat parfois chien, 
