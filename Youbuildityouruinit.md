@@ -1,5 +1,27 @@
 # You build it, you ru{i}n it!
 
+> *"L'agiliste sage apprend de ses erreurs, l’agiliste plus sage apprend des erreurs des autres."* ~ Yodafucius
+
+Les REX sur le déroulé des projets dits agiles sont souvent sans saveur.  
+Il y est décrit un cadre idyllique rappelant la petite maison dans la prairie.  
+Or quand vous avez travaillé pour ces projets ou à côté, vous vous apercevez bien trop souvent que le prairie est en proie aux flammes.
+
+Ici pas de mensonges, nous vous présenterons des REX de projets qui ont "merdé" à un moment et qui ont réussi en totalité 
+ou en partie ou pas à se sortir de la panade.
+
+Au travers des protagonistes suivants Lucien CaCailleDansLesWater, Mobi One, Merc Solo, Matic son fidèle compagnon parfois chat parfois chien,
+Princesse PoPasLa, Chef Casque Noir et l'empereur Palpélatune, nous découvrions ces récits au travers de la trilogie Prod Wars :
+- A new crafter
+- The agilty at scale strikes back
+- Return of the (Dev)Ops
+
+Venez donc passer un bon moment sur des histoires vraies de notre industrie sans toutefois se prendre trop au sérieux.
+Et trouvez-y une opportunité de vous améliorer :)
+
+---
+
+# You build it, you ru{i}n it!
+
 Les retours d'expériences sur le déroulé des projets dits agiles sont souvent sans saveur.  
 Il y est décrit un cadre idyllique rappelant la petite maison dans la prairie.  
 Or quand vous avez travaillé pour ces projets ou à côté, vous vous apercevez bien trop souvent que le prairie est en proie aux flammes.  
