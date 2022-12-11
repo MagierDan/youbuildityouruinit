@@ -1,6 +1,6 @@
 # You build it, you ru{i}n it!
 
-> *"L'agiliste sage apprend de ses erreurs, l’agiliste plus sage apprend des erreurs des autres."* ~ Yodafucius
+> *"Apprend de ses erreurs l'agiliste sage, apprend des erreurs des autres l’agiliste plus sage."* ~ Yodafucius
 
 Les REX sur le déroulé des projets dits agiles sont souvent sans saveur.  
 Il y est décrit un cadre idyllique rappelant la petite maison dans la prairie.  
@@ -10,13 +10,13 @@ Ici pas de mensonges, nous vous présenterons des REX de projets qui ont "merdé
 ou en partie ou pas à se sortir de la panade.
 
 Au travers des protagonistes suivants Lucien CaCailleDansLesWater, Mobi One, Merc Solo, Matic son fidèle compagnon parfois chat parfois chien,
-Princesse PoPasLa, Chef Casque Noir et l'empereur Palpélatune, nous découvrions ces récits au travers de la trilogie Prod Wars :
+Princesse PoPasLa, Chef Casque Noir et l'empereur Palpélatune, nous découvrions ces récits au travers de la trilogie Pro-jet-duit-duction Wars :
 - A new crafter
 - The agilty at scale strikes back
 - Return of the (Dev)Ops
 
 Venez donc passer un bon moment sur des histoires vraies de notre industrie sans toutefois se prendre trop au sérieux.
-Et trouvez-y une opportunité de vous améliorer :)
+Et trouvez-y une peut-être opportunité de vous améliorer :)
 
 ---
 
