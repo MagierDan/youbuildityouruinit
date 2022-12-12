@@ -15,8 +15,8 @@ Princesse PoPasLa, Chef Casque Noir et l'empereur Palpélatune, nous découvrion
 - The agilty at scale strikes back
 - Return of the (Dev)Ops
 
-Venez donc passer un bon moment sur des histoires vraies de notre industrie sans toutefois se prendre trop au sérieux.
-Et trouvez-y une peut-être opportunité de vous améliorer :)
+Venez donc passer un bon moment sur des histoires vraies de notre industrie sans toutefois se prendre trop au sérieux.  
+Et trouvez-y peut-être une opportunité de vous améliorer :)
 
 ---
 
