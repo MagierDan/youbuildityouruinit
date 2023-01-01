@@ -10,7 +10,8 @@ Il y est décrit un cadre idyllique rappelant la petite maison dans la prairie.
 Or quand vous avez travaillé pour ces projets ou à côté, vous vous apercevez bien trop souvent que le prairie est en proie aux flammes.
 
 Ici pas de mensonges, nous vous présenterons des REX de projets qui ont "merdé" à un moment et qui ont réussi en totalité 
-ou en partie ou pas à se sortir de la panade.
+ou en partie ou pas à se sortir de la panade.  
+Que les clients se rassurent, afin préserver leur réputation *(et nous permettre de dire la vérité sans contraintes)* ils seront bien entendu anonymisés.  
 
 Au travers des protagonistes suivants Lucien CaCailleDansLesWater, Mobi One, Merc Solo, Matic son fidèle compagnon parfois chat parfois chien,
 Princesse PoPasLa, Chef Casque Noir et l'empereur Palpélatune, nous découvrions ces récits au travers de la trilogie Pro-jet-duit-duction Wars :
